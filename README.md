@@ -3,6 +3,9 @@
 A simple weather app interface built with HTML and CSS.  
 JavaScript functionality (API integration) coming soon.
 
+## 🔗 Live Demo
+[View the Weather App](https://chiisai-b.github.io/Weather-App-UI/)
+
 ## 🎨 Initial Design
 
 ![Initial Figma Design](./Weather-app-1.png)
