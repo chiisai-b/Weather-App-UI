@@ -1,6 +1,6 @@
 # Weather App ☁️
 
-A simple weather app interface built with HTML, CSS, and Javascript
+A simple weather app interface built with HTML, CSS, and Javascript.
 
 ## 🔗 Live Demo
 [View the Weather App](https://chiisai-b.github.io/Weather-App-UI/)
